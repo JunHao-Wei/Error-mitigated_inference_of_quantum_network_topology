@@ -4,7 +4,7 @@ This repository contains the code used in the paper **"Error-mitigated inference
 
 The code is based on the Python packages [PennyLane](https://pennylane.ai/) and [qNetVO](https://chitambarlab.github.io/qNetVO/quantum_networks/index.html). It has been tested with **NumPy version 1.26.3**; using a later version may lead to compatibility issues. For best results, please ensure that NumPy is pinned to version 1.26.3.
 
-Additionally, since the initial measurement directions are randomly chosen, different random seeds may lead to different outcomes in the variational optimization.
+Note that, since the initial measurement directions are randomly chosen, different random seeds may lead to different outcomes in the variational optimization.
 
 ## File Descriptions
 
