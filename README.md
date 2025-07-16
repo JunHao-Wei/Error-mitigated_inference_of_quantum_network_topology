@@ -1,6 +1,6 @@
 # Error-mitigated Inference of Quantum Network Topology
 
-This repository contains the code used in the paper **"Error-mitigated inference of quantum network topology"**.
+This repository contains the code used in the paper **"[Error-mitigated inference of quantum network topology](http://dx.doi.org/10.1103/sx7r-1npt)"**.
 
 The code is based on the Python packages [PennyLane](https://pennylane.ai/) and [qNetVO](https://chitambarlab.github.io/qNetVO/quantum_networks/index.html). It has been tested with **NumPy version 1.26.3**; using a later version may lead to compatibility issues. For best results, please ensure that NumPy is pinned to version 1.26.3.
 
